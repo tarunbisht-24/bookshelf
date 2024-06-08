@@ -1,4 +1,4 @@
-![Vercel Deploy](https://bookshelf24.vercel.app/?logo=&name=bookshelf)
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/mypersonalbookshelf?logo=&name=mypersonalbookshelf)
 
 # Personal BookShelf
 
